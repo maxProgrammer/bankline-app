@@ -1,6 +1,15 @@
-# BanklineApp
+# 💵 BanklineApp 💵
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+> Status: Completed ✅
+
+### It's a frontend app that is integrated with a REST API to maintain clients and operations.
+
+<h1 align="center">
+  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/167323806-567d054f-ad18-4859-b79e-3cd8b4322979.png"/>
+</h1>
+
+## Technologies
+generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
 
@@ -25,3 +34,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 📲 contact
++ linkedin: https://www.linkedin.com/in/maxwneto/
